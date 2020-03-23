@@ -10,5 +10,5 @@
 <p>For the better part of my life I have focused on creating "pretty" things - whether it was buildings, websites, photographs, or the occasional watercolor painting. When it comes to sharing data or visualizing a complex problem, I tend to spend too much time on the visuals and lose site of the underlying context trying to be understood/told. I hope to combine the design with the data to make thins both interesting to look at, but also helpful to better understand complex information through maps, graphics, and other vizual data formats.</p>
 
 # Portfolio
-## <a href="https://mrfochs.github.io/Portfolio/COVID/Tracking">Ongoing Tracking of COVID-19 in the US (not map related, but interesting)</a>
-## Making a Custom Google Map Style from an Image
+### <a href="https://mrfochs.github.io/Portfolio/COVID/Tracking">Ongoing Tracking of COVID-19 in the US (not map related, but interesting)</a>
+### <a href="https://mrfochs.github.io/Portfolio/Lab1/google_map">Making a Custom Google Map Style from an Image</a>
