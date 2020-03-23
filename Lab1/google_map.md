@@ -1,0 +1,5 @@
+## Making a Custom Google Map Style
+
+Google maps has become somewhat ubiquitous in the last decade. The shere amount of up-to-date information has made it a tool that makes me laugh when I think about the old days of printing out directions from MapQuest before going on a trip. However, something about Google maps that most people do not know is that you can customize the look and feel of the maps for use in projects, websites, and presentations.
+To start my efforts of a suctom map style, I chose an image I took on a trip to South Korea a few years back. The primary colors of this temple door seemed like a good point palette to start my aesthetic design. Using the free, <a href="https://www.canva.com/colors/color-palette-generator/" target="_blank">online palette maker from Canva</a> I was able to come up with some major colors to build my styel from (see palette image below).
+
