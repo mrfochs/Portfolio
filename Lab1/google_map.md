@@ -7,3 +7,4 @@
 <p>&nbsp;</p>
 <p><center><img style="margin: 0px 5px 0px 0px" src="https://mrfochs.github.io/Portfolio/Lab1/BrokenKorea.PNG" alt="Korea Doesn't Work in Map Style" width="45%" /><img style="margin: 0px 0px 0px 5px" src="https://mrfochs.github.io/Portfolio/Lab1/ColorfulDoorMap.PNG" alt="Final Map Style over Pittsburgh" width="45%" /></center></p>
 #### <a href="https://mrfochs.github.io/Portfolio/Lab1/ColorfulDoorMap.json">The JSON file for this style can be reviewed here</a>
+<iframe="https://mrfochs.github.io/Portfolio/Lab1/livemap"></iframe>
