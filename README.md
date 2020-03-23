@@ -1,4 +1,4 @@
-<a href="https://mrfochs.github.io/Portfolio/" target=_blank"># Portfolio Home</a>
+# <a href="https://mrfochs.github.io/Portfolio/" target=_blank">Portfolio Home</a>
 <p>Welcome to the public, online portfolio of data vizualizations and maps created by Matthew Fochs</p>
 
 # About Me
