@@ -1,1 +1,310 @@
-https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyDuYYsjyqdZsBCmhpapgFwf5nXj1MJcEBU&center=35.54067789125387,-233.76081193464572&zoom=7&format=png&maptype=roadmap&style=element:geometry%7Ccolor:0xf4a411%7Csaturation:20%7Clightness:35&style=element:labels.text.fill%7Ccolor:0x5e3f39&style=element:labels.text.stroke%7Ccolor:0xf5f1e6&style=feature:administrative%7Celement:geometry.stroke%7Ccolor:0xdfc76c&style=feature:administrative.land_parcel%7Celement:geometry.stroke%7Ccolor:0xdfc76c&style=feature:administrative.land_parcel%7Celement:labels.text.fill%7Ccolor:0x5e3f39&style=feature:landscape.natural%7Celement:geometry%7Ccolor:0xdfc76c%7Csaturation:-20%7Clightness:40&style=feature:poi%7Celement:geometry%7Ccolor:0x06c7ab%7Csaturation:-45%7Clightness:40&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x5e3f39&style=feature:poi.park%7Celement:geometry.fill%7Ccolor:0x06c7ab%7Csaturation:-75%7Clightness:10&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x5e3f39&style=feature:road%7Celement:geometry%7Ccolor:0x7e9aae&style=feature:road.arterial%7Celement:geometry%7Ccolor:0xf4a411%7Csaturation:-45%7Clightness:80&style=feature:road.highway%7Celement:geometry%7Ccolor:0xf4a411&style=feature:road.highway%7Celement:geometry.stroke%7Ccolor:0xdfc76c&style=feature:road.highway.controlled_access%7Celement:geometry%7Ccolor:0xd43714&style=feature:road.highway.controlled_access%7Celement:geometry.stroke%7Ccolor:0xd43714%7Csaturation:-45%7Clightness:-20&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x5e3f39&style=feature:transit.line%7Celement:geometry%7Ccolor:0xdfc76c&style=feature:transit.line%7Celement:labels.text.fill%7Ccolor:0x5e3f39&style=feature:transit.line%7Celement:labels.text.stroke%7Ccolor:0xebe3cd&style=feature:transit.station%7Celement:geometry%7Ccolor:0xdfd2ae&style=feature:water%7Celement:geometry.fill%7Ccolor:0x06c7ab%7Csaturation:-15%7Clightness:5&style=feature:water%7Celement:geometry.stroke%7Ccolor:0x06c7ab%7Csaturation:-85%7Clightness:-100&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x5e3f39&size=480x360
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Live Google Map Style</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        // Styles a map in custom mode.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh, change as you like
+          zoom: 15,  // Setting a zoom scale for Pittsburgh
+          styles:    // Add JSON from Map Style Wizard below this line... 
+[
+  {
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f4a411"
+      },
+      {
+        "saturation": 20
+      },
+      {
+        "lightness": 35
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#f5f1e6"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#dfc76c"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#dfc76c"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dfc76c"
+      },
+      {
+        "saturation": -20
+      },
+      {
+        "lightness": 40
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#06c7ab"
+      },
+      {
+        "saturation": -45
+      },
+      {
+        "lightness": 40
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#06c7ab"
+      },
+      {
+        "saturation": -75
+      },
+      {
+        "lightness": 10
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#7e9aae"
+      }
+    ]
+  },
+  {
+    "featureType": "road.arterial",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f4a411"
+      },
+      {
+        "saturation": -45
+      },
+      {
+        "lightness": 80
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f4a411"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#dfc76c"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway.controlled_access",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#d43714"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway.controlled_access",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#d43714"
+      },
+      {
+        "saturation": -45
+      },
+      {
+        "lightness": -20
+      }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dfc76c"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#ebe3cd"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dfd2ae"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#06c7ab"
+      },
+      {
+        "saturation": -15
+      },
+      {
+        "lightness": 5
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#06c7ab"
+      },
+      {
+        "saturation": -85
+      },
+      {
+        "lightness": -100
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#5e3f39"
+      }
+    ]
+  }
+]
+// ..and here's the end of JSON from Style Wizard          
+        });
+      }
+// Don't forget your API Key below vv
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuYYsjyqdZsBCmhpapgFwf5nXj1MJcEBU&callback=initMap"
+    async defer></script>
+  </body>
+</html>
