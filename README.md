@@ -11,4 +11,5 @@
 
 # Portfolio
 ### <a href="https://mrfochs.github.io/Portfolio/COVID/Tracking">Ongoing Tracking of COVID-19 in the US (not map related, but interesting)</a>
+### <a href="https://mrfochs.github.io/Portfolio/COVID/DeathsInsurance">Map of DeathRate vs. Uninsured Rate by U.S. County</a>
 ### <a href="https://mrfochs.github.io/Portfolio/Lab1/google_map">Making a Custom Google Map Style from an Image</a>
