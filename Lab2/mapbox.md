@@ -6,7 +6,7 @@ Starting with a rather general base color for land, I was able to add in small s
 
 <p><a href="https://api.mapbox.com/styles/v1/mrfochs/ck8dk09d50w3c1imw424piur5.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJmb2NocyIsImEiOiJjazgzZm5nMHgxNDIzM2VvY2Z5MGN6aW05In0.ClDFxaQ_q0OcVyXWNEreiA" target="_blank">View the style live in Mapbox here</a></p>
 
-<table style="border:1px solid #ffffff;">
+<table border="0">
   <thead>
     <tr>
       <td>Base Map in Mapbox</td>
