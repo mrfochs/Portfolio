@@ -11,4 +11,4 @@ Starting with a rather general base color for land, I was able to add in small s
 <img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="30%" />
 <img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="30%" /></center>
 
-<div>*Airplane Saftey Card Image used under creative commons, non-commercial from <a href="https://www.flickr.com/photos/phossil/5157988485" target="_blank">Phossil</a> via Flickr*</div>
+###### *Airplane Saftey Card Image used under creative commons, non-commercial from <a href="https://www.flickr.com/photos/phossil/5157988485" target="_blank">Phossil</a> via Flickr*
