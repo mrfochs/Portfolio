@@ -17,7 +17,7 @@ Starting with a rather general base color for land, I was able to add in small s
   <tbody>
     <tr>
       <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="100%" /></td>
-      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="100%" /></td>
+      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_narrow.PNG" width="100%" /></td>
       <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="100%" /></td>
     </tr>
   </tbody>
