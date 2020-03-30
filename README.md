@@ -13,3 +13,5 @@
 ### <a href="https://mrfochs.github.io/Portfolio/COVID/Tracking">Ongoing Tracking of COVID-19 in the US (not map related, but interesting)</a>
 ### <a href="https://mrfochs.github.io/Portfolio/COVID/DeathsInsurance">Map of DeathRate vs. Uninsured Rate by U.S. County</a>
 ### <a href="https://mrfochs.github.io/Portfolio/Lab1/google_map">Making a Custom Google Map Style from an Image</a>
+### <a href="https://mrfochs.github.io/Portfolio/Lab2/mapbox">Making a Custom Mapbox Base Map Style</a>
+### <a href="https://mrfochs.github.io/Portfolio/COVID/base_map">Creating a Custom Base Map for future COVID-19 Tracking in Esri's ArcGIS Web Map Editor</a>
