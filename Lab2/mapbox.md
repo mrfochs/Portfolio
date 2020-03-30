@@ -6,7 +6,7 @@ Starting with a rather general base color for land, I was able to add in small s
 
 <p><a href="https://api.mapbox.com/styles/v1/mrfochs/ck8dk09d50w3c1imw424piur5.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJmb2NocyIsImEiOiJjazgzZm5nMHgxNDIzM2VvY2Z5MGN6aW05In0.ClDFxaQ_q0OcVyXWNEreiA" target="_blank">View the style live in Mapbox here</a></p>
 
-<table>
+<table style="border:1px solid #ffffff;">
   <thead>
     <tr>
       <td>Base Map in Mapbox</td>
@@ -16,9 +16,9 @@ Starting with a rather general base color for land, I was able to add in small s
   </thead>
   <tbody>
     <tr>
-      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="30%" /></td>
-      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="30%" /></td>
-      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="30%" /></td>
+      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="100%" /></td>
+      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="100%" /></td>
+      <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="100%" /></td>
     </tr>
   </tbody>
 </table>
