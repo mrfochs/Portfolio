@@ -6,16 +6,16 @@ Starting with a rather general base color for land, I was able to add in small s
 
 <p><a href="https://api.mapbox.com/styles/v1/mrfochs/ck8dk09d50w3c1imw424piur5.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJmb2NocyIsImEiOiJjazgzZm5nMHgxNDIzM2VvY2Z5MGN6aW05In0.ClDFxaQ_q0OcVyXWNEreiA" target="_blank">View the style live in Mapbox here</a></p>
 
-<table border="0">
+<table border="0px" bordercolor="#ffffff">
   <thead>
-    <tr>
+    <tr border="0px" bordercolor="#ffffff">
       <td>Base Map in Mapbox</td>
       <td>City-level view of style</td>
       <td>Base Map imported into ArcMap</td>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr border="0px" bordercolor="#ffffff">
       <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="100%" /></td>
       <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_narrow.PNG" width="100%" /></td>
       <td><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="100%" /></td>
