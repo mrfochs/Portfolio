@@ -6,9 +6,9 @@ Starting with a rather general base color for land, I was able to add in small s
 
 <p><a href="https://api.mapbox.com/styles/v1/mrfochs/ck8dk09d50w3c1imw424piur5.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJmb2NocyIsImEiOiJjazgzZm5nMHgxNDIzM2VvY2Z5MGN6aW05In0.ClDFxaQ_q0OcVyXWNEreiA" target="_blank">View the style live in Mapbox here</a></p>
 
-<p>Base Map in Mapbox          City-level view of style            Base Map imported into ArcMap</p>
+<p>Base Map in Mapbox                              City-level view of style                                 Base Map imported into ArcMap</p>
 <center><img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="30%" />
 <img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style.PNG" width="30%" />
 <img style="float:left; padding:5px;" src="https://mrfochs.github.io/Portfolio/Lab2/mapbox_style_in_arcmap.PNG" width="30%" /></center>
 
-<p>*Airplane Saftey Card Image used under creative commons, non-commercial from <a href="https://www.flickr.com/photos/phossil/5157988485" target="_blank">Phossil</a> via Flickr*</p>
+<div>*Airplane Saftey Card Image used under creative commons, non-commercial from <a href="https://www.flickr.com/photos/phossil/5157988485" target="_blank">Phossil</a> via Flickr*</div>
