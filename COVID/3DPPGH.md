@@ -5,7 +5,7 @@
 <h4>The original tracking assests included:</h4>
 <ul>
   <li><a href="https://www.zeemaps.com/3dppgh_covid" target="_blank">A general location map built in ZeeMaps</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1sH5PnG9G8RLx3Tip2PjBssJA5vhhC31nWXRBoxgwsNs/edit#gid=1114319060" target="_blank">A Google SHeets workbook with tabs based on orders and products</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1sH5PnG9G8RLx3Tip2PjBssJA5vhhC31nWXRBoxgwsNs/edit#gid=1114319060" target="_blank">A Google Sheets workbook with tabs based on orders and products</a></li>
 </ul>
 
 ### The Results
