@@ -15,3 +15,4 @@
 ### <a href="https://mrfochs.github.io/Portfolio/Lab1/google_map">Making a Custom Google Map Style from an Image</a>
 ### <a href="https://mrfochs.github.io/Portfolio/Lab2/mapbox">Making a Custom Mapbox Base Map Style</a>
 ### <a href="https://mrfochs.github.io/Portfolio/COVID/base_map">Creating a Custom Base Map for future COVID-19 Tracking in Esri's ArcGIS Web Map Editor</a>
+### <a href="https://mrfochs.github.io/Portfolio/COVID/3DPPGH">Final project for cleaning up and auditing operations data for 3DPPGH;s DUY PPE efforts</a>
